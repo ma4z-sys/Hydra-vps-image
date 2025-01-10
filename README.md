@@ -1,4 +1,4 @@
-# Hydra-vps-image
+# KenVM
 
 # How to use and install it ?
 
