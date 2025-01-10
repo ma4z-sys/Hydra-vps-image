@@ -1,0 +1,15 @@
+{
+  "Image": "ghcr.io/ma4z-sys/kenvm:beta_1",
+  "AltImages": [
+    "ghcr.io/ma4z-sys/kenvm:beta_1"
+  ],
+  "StartedMessage": "o Started KVM, Default Password is",
+  "Cmd": "",
+  "StopCommand": "exit",
+  "Name": "Linux: Ubuntu Kenvm",
+  "Description": "Run Linux inside Panel",
+  "AuthorName": "ma4z-sys",
+  "Meta": {
+    "Version": "Hydren Images v1"
+  }
+}
